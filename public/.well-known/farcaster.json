@@ -10,7 +10,7 @@
     "iconUrl": "https://pawconnect.xyz/icon-256x256.png",
     "splashImageUrl": "https://pawconnect.xyz/splash-200x200.png",
     "splashBackgroundColor": "#0a1929",
-    "homeUrl": "https://pawconnect.xyz",
-    "webhookUrl": "https://api.pawconnect.xyz/webhook/farcaster"
+    "homeUrl": "https://app-ca7dc721-r2ft.vercel.app",
+    "webhookUrl": "https://app-ca7dc721-r2ft.vercel.app/api/webhook"
   }
 }

@@ -1,0 +1,14 @@
+{
+  "name": "PawConnect",
+  "description": "PawConnect is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://1caa64b0-52c9-4f3b-ad99-edcdca7dc721.vercel.app",
+  "properties": {
+    "app": {
+      "name": "PawConnect",
+      "description": "PawConnect is a Base Mini App built with Zara.",
+      "url": "https://1caa64b0-52c9-4f3b-ad99-edcdca7dc721.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
